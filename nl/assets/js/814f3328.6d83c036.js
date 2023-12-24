@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowledgebase=self.webpackChunkknowledgebase||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Happy Holidays from the Horizon Team","permalink":"/nl/blog/december_2022_christmas_announcement"},{"title":"The new Horizon Hosting","permalink":"/nl/blog/the_new_horizon"}]}')}}]);

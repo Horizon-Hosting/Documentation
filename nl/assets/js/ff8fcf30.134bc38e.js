@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowledgebase=self.webpackChunkknowledgebase||[]).push([[2515],{6075:e=>{e.exports=JSON.parse('{"title":"\u2728 General","slug":"/category/-general","permalink":"/nl/knowledgebase/category/-general","navigation":{"next":{"title":"File Transfer Basics","permalink":"/nl/knowledgebase/general/using_ftp"}}}')}}]);
